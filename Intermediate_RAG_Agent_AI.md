@@ -18,6 +18,10 @@
 
 ---
 
+
+`Strucuted output vs tool calling in agent AI??`
+
+
 ## 3. Agentic AI & AI Agent Design
 
 - **Q7.** How quickly can you build a basic AI agent system using minimal tools and frameworks like LangGraph? Could you estimate the time required and justify the trade-offs involved?  
@@ -26,6 +30,8 @@
   - Do you typically create the agent flow yourself or follow a specification provided by a manager, lead, or client?  
   - If you design it yourself, what are your intuitive thought processes?  
   - How do you approach building an effective, modular, and scalable agent system from scratch?
+ 
+  
 
 ---
 
